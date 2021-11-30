@@ -216,6 +216,7 @@ ul.no-mark {
 }
 
 .about-block.red {
+    font-family: 'Museo Sans Cyrl 300';
     font-size: 18px;
     line-height: 25px;
 }
