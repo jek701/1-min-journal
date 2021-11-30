@@ -66,9 +66,11 @@ nav {
     height: max-content;
     overflow: hidden;
     transition: height .2s ease;
+    padding: 0 0 2rem 2rem;
 }
 
 .more.hidden {
+    padding: 0;
     height: 0;
 }
 
@@ -171,7 +173,7 @@ ul.no-mark {
 }
 
 .about-block.margin {
-    margin: 3rem 0;
+    margin: 1rem 0 3rem 0;
 }
 
 .about-block.purple {
