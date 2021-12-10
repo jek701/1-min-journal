@@ -75,7 +75,7 @@ nav {
 }
 
 h1 {
-    font-family: 'Museo Sans Cyrl 700';
+    font-family: 'Museo Sans Cyrl 700', sans-serif;
     font-style: normal;
     font-size: 50px;
     line-height: 60px;
@@ -85,7 +85,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Museo Sans Cyrl 700';
+    font-family: 'Museo Sans Cyrl 700', sans-serif;
     font-style: normal;
     font-size: 32px;
     line-height: 38px;
@@ -95,7 +95,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Museo Sans Cyrl 700';
+    font-family: 'Museo Sans Cyrl 700', sans-serif;
     font-style: normal;
     font-size: 26px;
     line-height: 31px;
@@ -132,7 +132,7 @@ ul.no-mark {
 }
 
 .additional p, .additional a {
-    font-family: 'Museo Sans Cyrl 300';
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
@@ -169,7 +169,7 @@ ul.no-mark {
     padding: 8px 0 8px 35px;
     border-radius: 8px;
     background: linear-gradient(270deg, #F6F7F9 98.76%, #D22630 98.76%);
-    box-shadow: 0px 2px 4px rgba(40, 41, 61, 0.04), 0px 8px 16px rgba(96, 97, 112, 0.1);
+    box-shadow: 0 2px 4px rgba(40, 41, 61, 0.04), 0 8px 16px rgba(96, 97, 112, 0.1);
 }
 
 .about-block.margin {
@@ -218,7 +218,7 @@ ul.no-mark {
 }
 
 .about-block.red {
-    font-family: 'Museo Sans Cyrl 300';
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
     font-size: 18px;
     line-height: 25px;
 }
@@ -257,13 +257,13 @@ ul.no-mark {
     width: 100%;
 }
 .desktop-el h2 {
-    font-family: 'Museo Sans Cyrl 700';
+    font-family: 'Museo Sans Cyrl 700', sans-serif;
     color: white;
     font-size: 45px;
     line-height: 54px;
 }
-.desktop-el h4 {
-    font-family: 'Museo Sans Cyrl 300';
+.desktop-el .h4 {
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
     font-size: 45px;
     line-height: 54px;
     color: white;
@@ -283,7 +283,7 @@ ul.no-mark {
     background: #46FF59;
     border-radius: 14px;
     color: white;
-    font-family: 'Museo Sans Cyrl 700';
+    font-family: 'Museo Sans Cyrl 700', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -310,7 +310,7 @@ hr {
 }
 
 footer p {
-    font-family: 'Museo Sans Cyrl 300';
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 15px;
@@ -360,7 +360,7 @@ footer img {
 }
 
 footer a {
-    font-family: 'Museo Sans Cyrl 300';
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 15px;
@@ -392,12 +392,12 @@ footer a {
         color: #13404F;
     }
     h2 {
-        font-family: 'Museo Sans Cyrl 700';
+        font-family: 'Museo Sans Cyrl 700', sans-serif;
         font-size: 23px;
         line-height: 24px;
     }
     h3 {
-        font-family: 'Museo Sans Cyrl 700';
+        font-family: 'Museo Sans Cyrl 700', sans-serif;
         font-size: 20px;
         line-height: 24px;
     }
@@ -420,7 +420,7 @@ footer a {
     .img-block p {
         max-width: 100%;
         text-align: center;
-        font-family: 'Museo Sans Cyrl 100';
+        font-family: 'Museo Sans Cyrl 100', sans-serif;
         font-style: normal;
         font-weight: 250;
         font-size: 16px;
@@ -468,16 +468,16 @@ footer a {
     }
     .mobile-el h2 {
         color: white;
-        font-family: 'Museo Sans Cyrl 700';
+        font-family: 'Museo Sans Cyrl 700', sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 24px;
         line-height: 29px;
         text-align: center;
     }
-    .mobile-el h4 {
+    .mobile-el .h4 {
         color: white;
-        font-family: 'Museo Sans Cyrl 300';
+        font-family: 'Museo Sans Cyrl 300', sans-serif;
         font-style: normal;
         font-weight: 300;
         font-size: 24px;
@@ -488,7 +488,7 @@ footer a {
         background: #46FF59;
         border-radius: 14px;
         border: none;
-        font-family: 'Museo Sans Cyrl 700';
+        font-family: 'Museo Sans Cyrl 700', sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 22px;
@@ -513,7 +513,7 @@ footer a {
     }
 
     footer p {
-        font-family: 'Museo Sans Cyrl 300';
+        font-family: 'Museo Sans Cyrl 300', sans-serif;
         font-style: normal;
         font-weight: 300;
         font-size: 10px;
